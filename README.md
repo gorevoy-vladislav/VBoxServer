@@ -1,5 +1,5 @@
 # vminit
-Init Virtual Box Virtual Machine on startup
+Init Virtual Box Virtual Machine on startup in Ubuntu
 
 ## Usage
 
