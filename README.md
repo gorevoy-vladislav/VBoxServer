@@ -11,4 +11,4 @@ Init Virtual Box Virtual Machine on startup in Ubuntu
 
 4) `sudo update-rc.d vminit defaults`
 
-5) Reboot host machine, if it's necessary
+5) Reboot host machine, if it's necessary, or just run `sudo /etc/init.d/vminit start`
