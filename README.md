@@ -6,7 +6,7 @@ Start Virtual Box Machine on startup in Ubuntu. And more..
 
 1) Change "vboxserver" file with Virtual Machines owner username and Virtual Machines ID (`$ vboxmanage list vms`)
 
-2) `sudo cp vbox-server /etc/init.d/vboxserver`
+2) `sudo cp vboxserver /etc/init.d/vboxserver`
 
 3) `sudo chmod +x /etc/init.d/vboxserver`
 
